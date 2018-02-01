@@ -1,0 +1,20 @@
+############################
+# Unreal Generated Content #
+############################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
+
+########################
+# VS Generated Content #
+########################
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
+
+BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/
